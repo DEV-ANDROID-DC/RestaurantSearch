@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fueled Restaurant App</string>
+
+    <string name="search">Search…</string>
+    <string name="location">Location…</string>
+    <string name="could_not_load_places_error">These places couldn\'t be loaded right now. Try again later.</string>
+    <string name="no_places_found">No places found.</string>
+    <string name="you_need_to_specify_a_location_for_your_search">You need to specify a location for your search.</string>
+    <string name="in">in</string>
+    <string name="place_details">Place Details</string>
+    <string name="there_was_an_error_loading_details_for_that_place">There was an error loading details for that place</string>
+    <string name="call">Call</string>
+    <string name="see_menu">See menu</string>
+    <string name="open_website">Open website</string>
+    <string name="menu_not_available">Menu not available.</string>
+    <string name="phone_number_not_available">Phone number not available</string>
+    <string name="website_not_available">Website not available.</string>
+    <string name="eastham">East Ham</string>
+    <string name="london">London</string>
+</resources>
